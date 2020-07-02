@@ -1,0 +1,6 @@
+CREATE TABLE [dbo].[CATEGORIA]
+(
+[CODCAT] [int] NOT NULL IDENTITY(1, 1),
+[NOMCAT] [varchar] (100) COLLATE Modern_Spanish_CI_AS NOT NULL
+) ON [PRIMARY]
+GO
