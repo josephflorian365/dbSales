@@ -1,0 +1,2 @@
+CREATE USER [ads] FOR LOGIN [ads]
+GO

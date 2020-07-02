@@ -1,0 +1,2 @@
+CREATE USER [sas] FOR LOGIN [sas]
+GO
